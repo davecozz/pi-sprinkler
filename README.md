@@ -1,4 +1,4 @@
-# sprinkler-pi
+# pi-sprinkler
 Hack and control a sprinkler system using a Raspberry Pi. 
 
 ## Pre-reqs:
